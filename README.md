@@ -36,6 +36,12 @@
 
 依据见 [来源与提炼说明](references/sources.md)。
 
+## 2026 年星球增补
+
+新增标题—开头—正文的承诺核对。调用例：`$lany-short-video-script-skill 这是我的标题与口播稿，检查标题吸引的人和正文帮助的人是否一致，只修承诺断裂，不增加效果数字。`
+
+[增补来源与适用边界](references/zsxq-2026.md)。原有小报童方法与说明保留。
+
 ## 独立仓库与安装
 
 仓库：[lany-short-video-script-skill](https://github.com/LanyXiaosheng/lany-short-video-script-skill)。本仓库根目录即技能目录，包含 `SKILL.md`、本说明及 `references/`。
@@ -49,4 +55,4 @@ git clone https://github.com/LanyXiaosheng/lany-short-video-script-skill.git ~/.
 
 已设置 `CODEX_HOME` 时，将目标改为该目录下的 `skills/lany-short-video-script-skill`。已有同名技能时先比较或备份，不覆盖。客户端发现技能后，使用 `$lany-short-video-script-skill` 调用。
 
-本独立库从[合集的已发布版本](https://github.com/LanyXiaosheng/lany-creator-skills/tree/367cd21c5417300c8122fe25ef4ff2e4d3f8bd3f)拆分，保留原有来源归属。浏览其他技能可进入[合集](https://github.com/LanyXiaosheng/lany-creator-skills)。
+初次拆分的提交历史继续保留；当前工作版本已纳入2026年知识星球增强方法。
