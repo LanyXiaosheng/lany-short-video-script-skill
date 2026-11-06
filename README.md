@@ -34,13 +34,13 @@
 
 想研究别人的视频为什么有效，用 `lany-content-remix-skill`；想根据发布数据决定下一轮改什么，用 `lany-content-experiment-skill`。本技能只负责表达成品，不承诺爆款、涨粉或收入。
 
-依据见 [来源与提炼说明](references/sources.md)。
+操作原理见[方法笔记](references/methods.md)。
 
-## 2026 年星球增补
+## 延伸用法
 
 新增标题—开头—正文的承诺核对。调用例：`$lany-short-video-script-skill 这是我的标题与口播稿，检查标题吸引的人和正文帮助的人是否一致，只修承诺断裂，不增加效果数字。`
 
-[增补来源与适用边界](references/zsxq-2026.md)。原有小报童方法与说明保留。
+[方法笔记与适用边界](references/methods.md)。本页资料为学习材料的重新整理，不是原文复刻。
 
 ## 独立仓库与安装
 
@@ -55,4 +55,4 @@ git clone https://github.com/LanyXiaosheng/lany-short-video-script-skill.git ~/.
 
 已设置 `CODEX_HOME` 时，将目标改为该目录下的 `skills/lany-short-video-script-skill`。已有同名技能时先比较或备份，不覆盖。客户端发现技能后，使用 `$lany-short-video-script-skill` 调用。
 
-初次拆分的提交历史继续保留；当前工作版本已纳入2026年知识星球增强方法。
+当前版本附自包含方法笔记，无需访问外部原文；现有仓库提交历史保留。
